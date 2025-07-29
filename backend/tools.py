@@ -13,6 +13,7 @@ import matplotlib.patches as patches
 from langchain_core.tools import tool
 from config import logger, mp_pose, pose, mp_drawing, persistent_vars, analysis_cache
 
+# angle calculation using 3 landmarks jo zyda use hore h frame mai 
 def calculate_angle(p1, p2, p3):
     """Calculate angle between three points (in degrees)."""
     try:
