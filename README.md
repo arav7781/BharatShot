@@ -1,5 +1,5 @@
 
-# 🏏 Cricket Biomechanics AI
+# 🏏Bharatshot: Cricket Biomechanics AI
 
 Welcome to **Cricket Biomechanics AI**, a cutting-edge web application that transforms cricket training with AI-powered video analysis! 📹 This app analyzes batting videos to assess posture, calculate swing speed, evaluate injury risks (back, knees, shoulders), and suggest personalized exercises. Powered by a sleek **Next.js** frontend with immersive 3D visuals (React Three Fiber) and a robust **Flask** backend with MediaPipe and LangGraph, it’s designed for cricketers, coaches, and sports tech enthusiasts. 🚀
 
