@@ -16,7 +16,7 @@ This project is paired with a 1.5-minute demo video showcasing its high-tech UI 
 ## 🛠️ Tech Stack
 - **Frontend**: Next.js, React Three Fiber, Framer Motion, Lucide React, Tailwind CSS
 - **Backend**: Flask, LangChain, LangGraph, MediaPipe, OpenCV, NumPy, Matplotlib, PIL
-- **AI Model**: Groq (via LangChain, `llama3-8b-8192`)
+- **AI Model**: Groq (via LangChain, `llama4`)
 - **Deployment**: Local development (extendable to Vercel/Heroku)
 
 ## 📂 Project Structure
