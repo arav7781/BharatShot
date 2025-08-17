@@ -166,5 +166,5 @@ For feedback or collaboration, reach out via [LinkedIn](#) or open an issue. Let
 
 ---
 
-*Built with 💻 by [Arav] for cricket enthusiasts and tech innovators.*
+*Built with 💻 by Arav for cricket enthusiasts and tech innovators.*
 ```
